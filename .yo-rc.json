@@ -1,0 +1,9 @@
+{
+  "generator-nuxeo": {
+    "lastRemote": "/Users/samuelfialho/.cache/node-yeoman-remote-cache/nuxeo/generator-nuxeo-meta/2.9.0",
+    "promptValues": {
+      "parent_version": "9.10",
+      "package": "org.nuxeo.onboarding"
+    }
+  }
+}

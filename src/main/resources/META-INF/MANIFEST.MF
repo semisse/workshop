@@ -1,0 +1,8 @@
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Manifest-Version: 1.0
+Bundle-Vendor: org.nuxeo.onboarding
+Bundle-Version: 1.0.0
+Bundle-Name: visual-importer
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.nuxeo.onboarding.visual-importer;singleton=true
